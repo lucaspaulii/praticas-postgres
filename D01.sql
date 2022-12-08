@@ -1,0 +1,1 @@
+SELECT * FROM produtos WHERE LOWER (nome) LIKE '%televisão%';

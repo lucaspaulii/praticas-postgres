@@ -1,0 +1,1 @@
+DELETE FROM compras WHERE id_produto = 14 AND id_cliente = 5;

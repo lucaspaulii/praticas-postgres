@@ -1,0 +1,1 @@
+SELECT * FROM produtos WHERE LOWER (nome) LIKE '%celular%' AND preco < 200000;
